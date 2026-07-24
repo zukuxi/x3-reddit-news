@@ -1,104 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Reddit World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-reddit-news</link><description>专为 xteink x3 优化，全文直接内嵌，点开即读</description><item><title>‘Significant problems’ in Russian banking system as public withdraws cash en masse</title><link>https://tvpworld.com/94490769/russians-hoard-cash-as-economic-pessimism-hits-20-year-high</link><description>【原文链接】：https://tvpworld.com/94490769/russians-hoard-cash-as-economic-pessimism-hits-20-year-high
+<rss version="2.0"><channel><title>Reddit World News (x3 Direct)</title><link>https://github.com/zukuxi/x3-reddit-news</link><description>专为 xteink x3 优化，全文直接内嵌，点开即读</description><item><title>London Mayor: 'I will act to enforce arrest warrant against Netanyahu'</title><link>https://www.ynetnews.com/article/3fe2hlsw1</link><description>【原文链接】：https://www.ynetnews.com/article/3fe2hlsw1
 
 ========================================
 
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Microsoft Confirms Windows Has a Global Device ID You Can't Turn Off</title><link>https://tech.yahoo.com/cybersecurity/articles/microsoft-confirms-windows-global-device-130905358.html</link><description>【原文链接】：https://tech.yahoo.com/cybersecurity/articles/microsoft-confirms-windows-global-device-130905358.html
+London Mayor Sadiq Khan was asked in an interview with Channel 4 News whether Britain would enforce the International Criminal Court (ICC) arrest warrant against Prime Minister Benjamin Netanyahu. He replied that "anyone accused of genocide must face justice" and that he would work with British Prime Minister Andy Burnham to "enforce the law" if Netanyahu arrives in London. Khan added: "People who commit genocide are not welcome in London."</description></item><item><title>Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire</title><link>https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html</link><description>【原文链接】：https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html
 
 ========================================
 
-Microsoft has confirmed that Windows has a previously unknown Global Device ID (GDID), a permanent, unique digital identifier assigned to Windows devices that can tie a user's actions to their device. This came to light when an alleged member of a notorious hacking group was caught at an airport after Microsoft handed over his GDID to the authorities.
-Microsoft describes the GDID in a published complaint (via Windows Latest) as "a persistent, device-level identifier designed to uniquely identify an installation of a Windows operating system on a device, either a physical device (e.g., a mobile phone or laptop) or virtual machine, across certain Microsoft services and scenarios."
-So when you first set up Windows, or register a new Windows device, Microsoft ties that installation's GDID to you. Anything that happens on that system can then be traced back to you, the individual.
-You can't adjust this in Windows settings.Credit: Jon Martindale
-Windows Latest discovered that this is generated at the server side, but is also stored locally. It can be found in the Windows registry under: "HKCU\\SOFTWARE\\Microsoft\\IdentityCRL\\ExtendedProperties."
-Although this number remains when you update Windows, it is updated if you reinstall Windows, assigning you a new GDID—though the original one may remain recorded as well.
-In the case of the alleged hacker, he had used the same device for all his online activities, so even if his identity was hidden through other means, Microsoft was able to tie all those activities together. When Microsoft was able to spot patterns in behavior that matched those of a particular GDID it held on account, it was able to coordinate with authorities to tie the activities to the hacker in question, giving up his identity and leading to his eventual arrest and charges brought against him.
-This has raised concerns among privacy advocates about Microsoft not providing an opt-out option for this level of tracking.</description></item><item><title>Trump to slap 'sweeping' new tariffs on 60 trade partners as global duties expire</title><link>https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html</link><description>【原文链接】：https://www.cnbc.com/2026/07/23/trump-tariffs-trade-deadline.html
-
-========================================
-
-The Trump administration will impose new tariffs just after midnight ET Friday on dozens of countries over alleged forced-labor violations, according to a notice in the Federal Register.
-The duties, set between 10% and 12.5%, will effectively replace President Donald Trump's temporary 10% global tariffs, which are set to expire at the same time as the new ones take effect.
-The forthcoming tariffs will apply to 60 trade partners and cover 99.4% of U.S. trade, the Office of the U.S. Trade Representative said in a fact sheet Thursday afternoon. The office separately told CNBC that it could not provide an estimate of how much revenue the new tariffs will generate.
-The move "is the most sweeping international labor rights action the United States has ever taken — that any country has ever taken," a senior Trump administration official told reporters in a call earlier Thursday.
-The official noted that the new tariffs would not "stack" on top of existing import taxes on steel and aluminum, known as "Section 232" duties, that Trump imposed last year on national-security grounds.
-Thursday's announcement underscores how the Trump administration is ramping its aggressive use of tariffs back up, after the president's protectionist agenda suffered major legal setbacks earlier this year. Trump has long touted tariffs as key tools for generating revenue and gaining leverage over foreign trade partners, while brushing aside criticisms that they tax U.S. importers and raise prices for U.S. consumers.
+The Trump administration imposed new tariffs Friday on dozens of countries over alleged forced labor violations, according to a notice in the Federal Register.
+The duties, set between 10% and 12.5%, effectively replace President Donald Trump's temporary 10% global tariffs, which expired at 12:01 a.m. ET — the same time as the new ones took effect.
+The tariffs apply to 60 trade partners and cover 99.4% of U.S. trade, the Office of the U.S. Trade Representative said in a fact sheet Thursday afternoon. The office separately told CNBC that it could not provide an estimate of how much revenue the new tariffs will generate.
+The move "is the most sweeping international labor rights action the United States has ever taken — that any country has ever taken," a senior Trump administration official told reporters on a call earlier Thursday.
+The official noted that the new tariffs would not "stack" on top of existing import taxes on steel and aluminum, known as Section 232 duties, that Trump imposed last year on national security grounds.
+The latest trade action underscores how the Trump administration is ramping its aggressive use of tariffs back up, after the president's protectionist agenda suffered major legal setbacks earlier this year. Trump has long touted tariffs as key tools for generating revenue and gaining leverage over foreign trade partners, while brushing aside criticisms that they tax U.S. importers and raise prices for U.S. consumers.
 The White House recently imposed 25% tariffs on most U.S. imports from Brazil, which took effect Wednesday, and 50% tariffs on a wide range of goods from Canada, which are set to begin next month.
-The Trump administration had proposed the upcoming tariffs in early June, after concluding that the targeted countries failed to effectively ban the use of forced-labor practices in trade with the U.S.
+The Trump administration had proposed the upcoming tariffs in early June, after concluding that the targeted countries failed to effectively ban the use of forced labor practices in trade with the U.S.
 The new tariffs are being brought under Section 301 of the Trade Act of 1974, one of trade tools Trump has wielded since the Supreme Court struck down his global "liberation day" duties on Feb. 20.
 Hours after that court loss, a furious Trump said he would impose a worldwide 10% tariff under Section 122 of the 1974 trade law. But that tariff came with a 150-day timer that was set to lapse at 12:01 a.m. ET on Friday.
-In March, the Trump administration announced two separate Section 301 investigations: the forced-labor probe, and another one centered on concerns about excess manufacturing capacity by 16 economies. The latter probe has yet to be finalized.
-"We commit to continuing to use tariffs and to negotiate deals to support the reindustrialization of our economy, protect American workers, and increase their wages and shrink our trade deficit," U.S. Trade Representative Jamieson Greer said in Senate testimony Wednesday.</description></item><item><title>“Millions Watched Billions Burn”: Ukraine Hits Wildberries Warehouses Across Russia and Crimea</title><link>https://united24media.com/war-in-ukraine/millions-watched-billions-burn-ukraine-hits-wildberries-warehouses-across-russia-and-crimea-21029</link><description>【原文链接】：https://united24media.com/war-in-ukraine/millions-watched-billions-burn-ukraine-hits-wildberries-warehouses-across-russia-and-crimea-21029
+In March, the Trump administration announced two separate Section 301 investigations: the forced labor probe, and another one centered on concerns about excess manufacturing capacity by 16 economies. The latter probe has yet to be finalized.
+"We commit to continuing to use tariffs and to negotiate deals to support the reindustrialization of our economy, protect American workers, and increase their wages and shrink our trade deficit," U.S. Trade Representative Jamieson Greer said in Senate testimony Wednesday.</description></item><item><title>Indian Government orders GitHub to remove Jack Dorsey's offline messaging app Bitchat after protesters reportedly used it during internet shutdowns</title><link>https://www.indiatoday.in/technology/news/story/cjp-protests-india-tells-github-to-block-bitchat-app-jack-dorsey-leaks-notice-2955199-2026-07-24</link><description>【原文链接】：https://www.indiatoday.in/technology/news/story/cjp-protests-india-tells-github-to-block-bitchat-app-jack-dorsey-leaks-notice-2955199-2026-07-24
 
 ========================================
 
-- Category
-- War in Ukraine
-“Millions Watched Billions Burn”: Ukraine Hits Wildberries Warehouses Across Russia and Crimea
-Ukrainian long-range drones struck two major Wildberries logistics centers near St. Petersburg and a third facility in temporarily occupied Crimea overnight on July 24, extending a campaign that Ukraine’s Unmanned Systems Forces says has now destroyed five warehouses belonging to the Russian e-commerce giant.
-Robert “Madyar” Brovdi, commander of Ukraine’s Unmanned Systems Forces, confirmed the strikes on social media. Videos collected by the OSINT community Exilenova+ showed extensive fires and damage at several locations.
-We bring you stories from the ground. Your support keeps our team in the field.
-“Several million people watched billions burn,” the commentary accompanying the footage said. “Billions that could have been spent on the war.”
-One of the targets was the Wildberries complex in Shushary, inside St. Petersburg’s Pushkinsky district. The sprawling logistics center covers approximately 106,000 square meters, or about 1.14 million square feet, and serves as a major processing and distribution hub for northwestern Russia.
-Drones also struck the Utkina Zavod logistics park in Novosaratovka, just beyond St. Petersburg’s administrative boundary in the Leningrad region. The approximately 210,000-square-meter complex—more than 2.2 million square feet—functions as a distribution hub for several companies, including Wildberries.
-Wildberries confirmed that operations at both locations had been halted.
-“Operations at the Wildberries logistics complexes in Shushary and Utkina Zavod have been temporarily suspended,” the company said.
-The strikes were reportedly carried out using long-range FP-1 drones developed by Ukrainian manufacturer Fire Point. Russia scrambled fighter aircraft during the attack, while Leningrad regional authorities claimed air defenses intercepted 59 UAVs.
-Despite those claims, footage showed fires at the logistics sites, while regional Governor Alexander Drozdenko also acknowledged damage at a warehouse complex belonging to the Severnaya poultry farm in Sinyavino. Part of one warehouse reportedly collapsed.
-A Wildberries sorting center in temporarily occupied Simferopol was also attacked overnight, sparking a major fire and forcing personnel to leave the facility.
-“The company’s sorting center in Simferopol was evacuated in accordance with safety requirements,” Wildberries said.
-Wildberries, often described as Russia’s equivalent of Amazon, has previously been identified by Ukrainian officials and security analysts as a platform through which Russian military personnel and volunteer organizations procure dual-use electronics, drone components, communications equipment, body armor, and other supplies.
-Previously, open-source data analysis found that the recent attacks damaged roughly 10% of Wildberries' logistics capacity. That amounts to 552,000 square meters (5.9 million square feet) of warehouse space.
-Discuss this article:</description></item><item><title>Thanks No Thanks – Fedorov Turns Down Zelensky’s Offer to Become ‘Deputy PM for Military Innovations’</title><link>https://www.kyivpost.com/post/80925</link><description>【原文链接】：https://www.kyivpost.com/post/80925
+CJP protests: India tells GitHub to block Bitchat app, Jack Dorsey leaks notice
+The Indian government has ordered GitHub to remove all repositories of Jack Dorsey's Bitchat, alleging that the Bluetooth messaging app could be used to bypass internet shutdowns and hinder investigations amid the ongoing CJP protests in Delhi.
+The government has asked GitHub to remove repositories hosting Bitchat, the Bluetooth messaging app developed by Twitter co-founder Jack Dorsey. The move comes amid the ongoing Cockroach Janta Party (CJP) protest in Delhi, where Bluetooth-based messaging apps are reportedly being used by protestors to stay connected after the suspension of mobile internet services.
+In a post on X, Dorsey shared screenshots of a notice issued by the Indian Cyber Crime Coordination Centre (I4C) under the Ministry of Home Affairs. The notice directs GitHub to remove or disable access to three repositories hosting Bitchat, saying the app could be used to bypass internet shutdowns, evade lawful interception and help coordinate unlawful assemblies during public-order situations.
+According to the notice, the government has invoked Section 79(3)(b) of the Information Technology Act, 2000, and Rule 3(1)(d) of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, directing GitHub to disable access to three Bitchat repositories within three hours. These include the main project repository as well as its Android version.
+The order describes Bitchat as "a communication platform capable of establishing decentralised peer-to-peer messaging over Bluetooth mesh networks without relying on mobile networks, internet connectivity, or centralized servers." It argues that the app's architecture "significantly impedes lawful interception, attribution, and investigation by law enforcement agencies."
+The notice further states that "such decentralized communication platforms are capable of being exploited for coordinating unlawful assemblies, violent protests, dissemination of misinformation, radicalization, criminal conspiracies, and other activities prejudicial to the sovereignty and integrity of India, defence of India, security of the State, public order, and for facilitating the commission of cognizable offences."
+Essentially, the notice shared by Dorsey suggests the government is concerned that Bitchat's ability to let people communicate without relying on mobile networks or central servers could make investigations more difficult and allow users to bypass internet shutdowns during public-order situations.
+India Today Tech has reached out to GitHub for comment and waiting for the official response.
+Were CJP protesters using Bluetooth messaging apps?
+The notice shared by Dorsey comes amid the ongoing CJP protests in Delhi, where reports suggest some protesters used Bluetooth-based messaging apps to stay connected after mobile internet services were suspended in parts of central Delhi.
+Delhi Police are now reportedly examining whether Bluetooth-based messaging apps were used during the CJP protests after mobile internet services were suspended. However, authorities have not confirmed that Bitchat itself was used. According to reports, investigators are looking at multiple avenues, including seeking information from app providers where possible, analysing CCTV footage and examining other digital evidence.
+What is Bitchat?
+Dorsey unveiled Bitchat last year as an open-source messaging app designed to work without mobile networks, Wi-Fi, phone numbers or centralised servers. Instead, it uses Bluetooth Low Energy (BLE) to create a mesh network, allowing nearby smartphones running the app to relay encrypted messages from one device to another. As more users join the network, messages can travel farther by hopping across multiple devices without passing through telecom networks or central servers.
+Unlike apps such as WhatsApp, Signal and Telegram, Bitchat does not require users to create an account or connect to the internet. While this makes it useful during internet outages or in areas with poor connectivity, it also makes it harder to trace communications or obtain user records.</description></item><item><title>'Extremely significant' car bomb intercepted near border by Irish police</title><link>https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599</link><description>【原文链接】：https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599
 
 ========================================
 
-Former Defense Minister Mykhailo Fedorov turned down President Volodymyr Zelensky’s offer to become the “deputy prime minister for military innovations” on Thursday.
-In a written response shared with journalists, Fedorov thanked Zelensky for the offer but said he would only accept positions that would allow him to make a difference.
-JOIN US ON TELEGRAM
-Follow our coverage of the war on the @Kyivpost_official.
-“I’m grateful to the president for all the options offered. However, today there are only three positions in the country that, alongside the troops on the battlefield, actually shape the course of the war: the President of Ukraine, the Minister of Defense, and the Commander-in-Chief of the Armed Forces of Ukraine,” he wrote.
-“That is why I will not accept any position other than Minister of Defense,” he added.
-Fedorov said he and his team joined the defense ministry with the goal of boosting air defense and crippling Russia’s economy, saying he could not afford to “lose” the momentum.
-“At the invitation of President Volodymyr Zelensky in January 2026, our team joined the Ministry of Defense with a specific plan to end the war: defend the skies, hold the front line, and strike the enemy’s economy. We called this plan AIR–LAND–ECONOMY,” he wrote.
-“Over the past six months, we consistently executed this exact plan. For the first time in recent years, Ukraine began seizing the initiative. Our collective results created something unprecedented, a window of opportunity to force Russia into peace through strength. And we cannot afford to lose it,” he added.
-To the Ukrainians, Zelensky is Not a Hero, Just a Politician | Stefan Korshak
-Fedorov said it’s the only position that would allow him to realize his vision of reforming the military.
-“No other role carries the actual authority to combat procurement corruption, complete the army’s transformation, plan and execute asymmetric operations against the enemy, root out a culture of lies and unaccountability within the system, or finish the initiatives our team has already started at the defense ministry,” he said.
-He reiterated his earlier statement that he does not care much for official titles, but the impact he can have on the war against Russia’s invasion.
-“For me, it was never about the title or status – it has only ever been about having a real impact on the outcome and bringing Ukraine closer to victory,” he added.
-Zelensky’s proposal for Fedorov
-Zelensky’s proposal would mean an entirely new ministry – but as a deputy prime minister without an existing ministry, the position of deputy prime minister carries little power and leverage within the existing structure.
-The proposal came amid a political crisis spurred by Fedorov’s dismissal on July 15.
-A day after his surprise resignation, Fedorov accused former Commander-in-Chief Oleksandr Syrsky of hindering reforms. Protests erupted nationwide calling for Fedorov’s reinstatement and Syrsky’s dismissal.
-Zelensky eventually appointed Yevhen Khmara, the former head of the Alpha special forces unit under the Security Service of Ukraine (SBU), to head the defense ministry.
-Days later, after dozens of meetings with military and security officials, Zelensky sacked Syrsky and replaced him with the 43-year-old Maj. Gen. Mykhailo Drapaty, a move welcomed by Fedorov.
-Fedorov became the defense minister in January after his previous role as digital transformation minister, with his brief, six-month tenure at the defense ministry coinciding with the removal of Starlink for Russian troops and Kyiv’s intensified drone campaign against Russian oil and logistics.
-In early July, Ukraine’s General Staff estimated that 43% of Russian oil refining capacity was crippled by Ukrainian strikes.
-You can also highlight the text and press Ctrl + Enter</description></item><item><title>Yen plunges to 163 versus US dollar for first time in over 39 years</title><link>https://mainichi.jp/english/articles/20260722/p2g/00m/0bu/006000c</link><description>【原文链接】：https://mainichi.jp/english/articles/20260722/p2g/00m/0bu/006000c
-
-========================================
-
-Yen plunges to 163 versus US dollar for first time in over 39 years
-(Mainichi Japan)
-NEW YORK (Kyodo) -- The yen briefly hit 163 against the U.S. dollar in New York on Tuesday, a level unseen since December 1986, as investors sought the U.S. unit as a safe asset amid growing uncertainty over the U.S.-Israeli war on Iran.
-The dollar is perceived as a relatively safe currency in times of crisis, such as during wars.
-A weak yen inflates the cost of imports for everything from energy to food, dealing a blow to resource-poor Japan and its tens of millions of households.
-In Tokyo at 5 p.m., the dollar fetched 162.59-60 yen.</description></item><item><title>Russia declares its Black Sea waters unsafe for navigation</title><link>https://www.pravda.com.ua/eng/news/2026/07/23/8045590/</link><description>【原文链接】：https://www.pravda.com.ua/eng/news/2026/07/23/8045590/
-
-========================================
-
-Russia declares its Black Sea waters unsafe for navigation
-Russia has warned all vessels of the dangers of navigation within its exclusive economic zone in the Black Sea following a series of attacks on Russia-linked ships.
-Source: Bloomberg citing a Russian Ministry of Defence bulletin dated 22 July, as reported by European Pravda
-Details: The warning cites a threat from drones. Russia's exclusive economic zone covers the approaches to several ports, including Novorossiysk – one of the country's key export hubs.
-According to Ukraine's General Staff, between 8 and 20 July at least 124 Russia-linked vessels were attacked in the Black and Azov Seas, including 89 tankers.
-Russia is simultaneously attacking the Ukrainian ports of Odesa and Chornomorsk. As a result, some shipowners have temporarily suspended calls at Ukrainian ports to load agricultural produce.
-Background:
-- Ukrainian strikes on Russian vessels in the Sea of Azov and the Black Sea have matched or exceeded the intensity of the "tanker war" between Iran and Iraq in the 1980s.
-- A drone attacked a tanker whilst it was loading oil at the Caspian Pipeline Consortium marine terminal (located in Novorossiysk), after which transhipment of crude oil was suspended.
-Subscribe on Patreon to back our journalism long-term.</description></item><item><title>Prime Minister Carney says Canada is ready to respond if Trump's new tariffs go into effect</title><link>https://apnews.com/article/canada-us-trump-carney-tariffs-0591038f6084d8a4210d57bca94de8d3</link><description>【原文链接】：https://apnews.com/article/canada-us-trump-carney-tariffs-0591038f6084d8a4210d57bca94de8d3
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Prime Minister Carney says Canada is ready to respond if Trump's new tariffs go into effect</title><link>https://apnews.com/article/canada-us-trump-carney-tariffs-0591038f6084d8a4210d57bca94de8d3</link><description>【原文链接】：https://apnews.com/article/canada-us-trump-carney-tariffs-0591038f6084d8a4210d57bca94de8d3
 
 ========================================
 
@@ -128,22 +70,7 @@ Ford was asked if he would put a surcharge on electrically his province sells to
 Later Thursday, the Trump administration included Canada among the dozens of countries it’s hitting with tariffs citing forced labor in supply chains.
 In a statement, Dominic LeBlanc, the Canada-U.S. Trade Minister, said the move “is not unexpected.”
 LeBlanc said Canada shares the U.S.’s objective of ensuring that goods produced with forced labor don’t enter the supply chain.
-“We will continue engaging constructively with the United States on this matter, as well as other outstanding issues, over the coming weeks to the mutual benefit of our citizens,” LeBlanc said.</description></item><item><title>Iran threatens Britain and declares RAF base a 'target'</title><link>https://www.lbc.co.uk/article/iran-threatens-britain-and-declares-raf-base-a-target-5Hjdf5q_2/</link><description>【原文链接】：https://www.lbc.co.uk/article/iran-threatens-britain-and-declares-raf-base-a-target-5Hjdf5q_2/
-
-========================================
-
-Iran threatens Britain and declares RAF base a 'target'
-Iran has said that it considers RAF Fairford a 'legitimate target' after the US used the base for bombing raids.
-Listen to this article
-The Islamic Revolutionary Guard Corps (IRGC) has issued a statement condemning Britain for supporting America's war effort.
-It comes after the US military deployed a B-1 bomber from Fairford for strikes on Tehran.
-Andy Burnham has continued the UK policy of allowing the US to use the air base for 'defensive strikes'.
-The IRGC issued a statement: "We warn the British monarchy, which is the main cause of the misfortunes of the people of our region and has a dark record of dividing Islamic countries, widespread massacres in these countries, imposing authoritarian governments, and worst of all, organizing and leading the occupation of Palestine and the creation of the Israeli Nakba, and has participated most in the recent aggressions of the United States and the Zionist regime against Iran, not to burden its case any further.”
-Read more: Andy Burnham pauses early prison release scheme
-The statement added: “As Foreign Ministry officials have also clarified, any base used to invade Iranian territory is our legitimate target.”
-According to US news website Axios, the B1 bomber - which can carry two-dozen 2,000lb bombs - took off from RAF Fairford on Tuesday.
-The government said in a statement: "For operational security reasons we do not comment on foreign nations military operations."
-Donald Trump has recently announced a ramp-up in attacks on Iran, and promised "major military punishment" for Iran and its Houthi allies, after Yemeni fighters struck two Saudi oil tankers in the Red Sea, extending the Middle East war to a second major shipping chokepoint.</description></item><item><title>US imposes new tariff of 12.5% on Switzerland over forced labour</title><link>https://www.swissinfo.ch/eng/foreign-affairs/us-imposes-new-tariff-of-12-5-on-switzerland-over-forced-labour/91793008</link><description>【原文链接】：https://www.swissinfo.ch/eng/foreign-affairs/us-imposes-new-tariff-of-12-5-on-switzerland-over-forced-labour/91793008
+“We will continue engaging constructively with the United States on this matter, as well as other outstanding issues, over the coming weeks to the mutual benefit of our citizens,” LeBlanc said.</description></item><item><title>US imposes new tariff of 12.5% on Switzerland over forced labour</title><link>https://www.swissinfo.ch/eng/foreign-affairs/us-imposes-new-tariff-of-12-5-on-switzerland-over-forced-labour/91793008</link><description>【原文链接】：https://www.swissinfo.ch/eng/foreign-affairs/us-imposes-new-tariff-of-12-5-on-switzerland-over-forced-labour/91793008
 
 ========================================
 
@@ -158,7 +85,7 @@ Swiss products subject to a 12.5% tariff
 “President Trump recognises that decades of moral suasion have not eradicated forced labor from global supply chains. The United States has had a forced labor import ban for nearly a century, and rigorously enforces it; it’s well past time for our trading partners to do the same,” said Ambassador Greer.
 Countries with legislation that the United States considers inadequate will have a 10% tariff imposed on a number of their products. This will apply in particular to the countries of the European Union (EU), the United Kingdom, Mexico and Canada – some of the United States’ most important trading partners.
 For the others – around 40 countries – a 12.5% tariff will apply to their products. Switzerland, China, Japan and South Korea are among those affected. However, there are likely to be exceptions. In particular, energy and raw materials not produced in the United States are expected to be excluded from the list of affected products.
-The Swiss Federal Department of Economic Affairs, Education and Research has taken note of the new tariffs, as it stated on social media platform X. However, it “firmly rejects the allegations of forced labour”.
+The Swiss Economics ministry has taken note of the new tariffs, as it stated on social media platform X. However, it “firmly rejects the allegations of forced labour”.
 For the Swiss business association Economiesuisse, these tariffs are incomprehensible and unjustified. This decision “weighs heavily on Swiss companies” operating in the US market and “creates competitive disadvantages compared with countries that have lower rates”, including the EU and the UK, stated the umbrella organisation for Swiss businesses, which is calling on Switzerland to continue negotiations.
 Legal uncertainty
 The White House hopes that this new tariff will not suffer the same fate as the one introduced last year. To ensure its viability, the US Trade Representative has relied on the same legislation that has so far been used to justify sector-specific tariffs – on steel, aluminium, copper, construction timber and the automotive sector, amongst others – which were not struck down by the Supreme Court in February.
@@ -177,7 +104,11 @@ Translated from German, reviewed by an English Department journalist. 
 In compliance with the JTI standards
 More: SWI swissinfo.ch certified by the Journalism Trust Initiative
 You can find an overview of ongoing debates with our journalists here . Please join us!
-If you want to start a conversation about a topic raised in this article or want to report factual errors, email us at english@swissinfo.ch.</description></item><item><title>NZ rejects US claims of 'forced labour', as tariffs hiked.</title><link>https://www.rnz.co.nz/news/politics/783238/nz-rejects-us-claims-of-forced-labour-as-tariffs-hiked</link><description>【原文链接】：https://www.rnz.co.nz/news/politics/783238/nz-rejects-us-claims-of-forced-labour-as-tariffs-hiked
+If you want to start a conversation about a topic raised in this article or want to report factual errors, email us at english@swissinfo.ch.</description></item><item><title>Warehouse of Russian online retailer Wildberries near St.Petersburg on fire after drone attack, governor says</title><link>https://www.reuters.com/world/warehouse-russian-online-retailer-wildberries-near-stpetersburg-fire-after-drone-2026-07-24/</link><description>【原文链接】：https://www.reuters.com/world/warehouse-russian-online-retailer-wildberries-near-stpetersburg-fire-after-drone-2026-07-24/
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>NZ rejects US claims of 'forced labour', as tariffs hiked.</title><link>https://www.rnz.co.nz/news/politics/783238/nz-rejects-us-claims-of-forced-labour-as-tariffs-hiked</link><description>【原文链接】：https://www.rnz.co.nz/news/politics/783238/nz-rejects-us-claims-of-forced-labour-as-tariffs-hiked
 
 ========================================
 
@@ -199,112 +130,93 @@ Trump does what he does - McClay
 Following a surprise tariff hike in August 2025, McClay flew to Washington DC to meet with Greer personally, and make New Zealand's position clear face-to-face. New Zealand's top trade diplomat Vangelis Vitalis was also dispatched to DC.
 This time around McClay said a repeat visit was unlikely, but said he had recently spoken to Greer.
 "I very clearly explained to him there isn't forced labour in New Zealand, that we have robust rules and laws in place, that we take obligations very, very seriously. But ultimately there was a bit of a shrug of the shoulders. The president of America is going to do what the president is going to do."
-Around 33 percent of exports were carved out from the previous tariffs, including beef and kiwifruit, and that exemption was set to remain.</description></item><item><title>‘Ukrainians, Have You No Empathy?’: Russians Cry on Camera as Ukraine Strikes More Wildberries Warehouses</title><link>https://www.kyivpost.com/post/80996</link><description>【原文链接】：https://www.kyivpost.com/post/80996
+Around 33 percent of exports were carved out from the previous tariffs, including beef and kiwifruit, and that exemption was set to remain.</description></item><item><title>Ecuador says Canada trade deal to make 99.6% of exports tariff-free</title><link>https://www.reuters.com/world/ecuador-says-canada-trade-deal-make-996-exports-tariff-free-2026-07-24/</link><description>【原文链接】：https://www.reuters.com/world/ecuador-says-canada-trade-deal-make-996-exports-tariff-free-2026-07-24/
 
 ========================================
 
-Russian sellers broke down in tears on camera after new strikes hit Wildberries logistics centers near St. Petersburg on Friday, July 24, saying the fires had destroyed their merchandise, businesses and last sources of income.
-“First, the Ukrainians killed my husband. Then the bank deceived me. Today, everything I had left burned in the warehouses. What else is there?” one woman said through tears in a video posted online.
-JOIN US ON TELEGRAM
-Follow our coverage of the war on the @Kyivpost_official.
-The videos, posted on Russian social media following the latest attacks, captured a mix of shock, anger, and despair among small business owners who depend on Wildberries to store and distribute their merchandise.
-                                                                                                                                                                         
-Another seller, visibly distraught, said she had been left with nothing.
-“That’s it. I’m officially broke,” she said, crying. “My goods burned in the warehouse. Thank you, Ukrainians.”
-                                                                                                                                                                         
-Russian Airstrike on Sloviansk Kills 5, Damages Latvian Consulate
-In another emotional video, a business owner struggled to hold back tears while describing the destruction in St. Petersburg.
-“There is no business anymore. St. Petersburg. Everything has been destroyed, the warehouses are gone. Why?” she said.
-One mother appealed directly to customers for help, saying part of her merchandise had been destroyed and asking people to buy whatever remained.
-“I’m an ordinary mother of two children. My goods burned at Wildberries,” she said tearfully. “Please help and buy the rest of my products before the Ukrainians burn the remaining warehouses.”
-                                                                                                                                                                         
-“Wildberries warehouses are burning in St. Petersburg. I’m already shaking from the news,” one Russian man said in a video. “I thought two or three warehouses would burn and the Ukrainians would stop, but no. I’ve already lost count.”
-“I have never received so many hateful comments in my life,” another woman said in a video after reading responses on Threads. “Ukrainians, do you have no sense of empathy?”
-Under international humanitarian law, a civilian facility may become a lawful military target if its use makes an effective contribution to military action and its destruction offers a definite military advantage.
-Ukraine says the Wildberries hubs supplied Russian forces with drone components, navigation equipment, and other military or dual-use goods, potentially placing them within that definition.
-A widening campaign against Wildberries logistics
-The attacks have continued for several days, hitting major distribution centers from the Moscow and Tambov regions to Krasnodar, St. Petersburg, Stavropol region, and others.
-Videos posted on Russian social media showed vast warehouses engulfed in flames and thick columns of smoke rising above the facilities.
-The first major attacks in the latest campaign took place overnight on July 17-18.
-Ukrainian drones struck Wildberries centers in Kotovsk, in Russia’s Tambov region, and Elektrostal, about 50 kilometers (31 miles) east of Moscow. The warehouse in Elektrostal covered approximately 188,000 square meters (2,023,615 square feet) and was one of the company’s largest facilities by order-processing volume.
-A massive fire tore through the complex and sent smoke into the sky that was reportedly visible from more than 200 kilometers (124 miles) away. Firefighters continued battling the blaze for more than a day.
-Ukrainian drones also struck Wildberries logistics centers in Russia’s Krasnodar and Nevinnomyssk early on Wednesday, according to the marketplace’s founder, Tatyana Kim.
-Kim said employees had been evacuated before the strikes, but several people were still injured.
-“I wish you a speedy recovery, and we will definitely provide all the necessary assistance,” she said.
-Following the strikes, Zelensky said the warehouses helped “[supply] the Russian army with drone components, navigation equipment, and other military hardware.
-“Today, Ukraine’s long-range sanctions successfully hit important targets in the Krasnodar and Stavropol regions – logistics centers involved in supplying the Russian army with drone components, navigation equipment, and other military hardware, as well as another oil depot,” he wrote in a social media update.
-You can also highlight the text and press Ctrl + Enter</description></item><item><title>Warehouse of Russian online retailer Wildberries near St.Petersburg on fire after drone attack, governor says</title><link>https://www.reuters.com/world/warehouse-russian-online-retailer-wildberries-near-stpetersburg-fire-after-drone-2026-07-24/</link><description>【原文链接】：https://www.reuters.com/world/warehouse-russian-online-retailer-wildberries-near-stpetersburg-fire-after-drone-2026-07-24/
-
-========================================
-
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Google slapped with $1 billion fine under landmark EU digital law</title><link>https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html</link><description>【原文链接】：https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html
-
-========================================
-
-European regulators have fined Google 890 million euros (US$1 billion), alleging the company gives preferential treatment to its own services.
-The fine is Google's first under the European Union's sweeping Digital Markets Act which aims to scrutinize Big Tech's operating practices in Europe.
-Shares of Google parent Alphabet were around 4% lower in premarket trading, but that primarily reflected investor unease over rising AI spending outlined in the company's earnings report on Wednesday.
-The European Commission, the EU's executive arm, said it found that Google gives preferential treatment to its own services, such as in shopping and hotels, over those of third parties in search.
-Google displays its own services "more prominently in search results," while similar third parties "do not have the same prominence," the Commission said.
-The U.S. tech giant is also in breach of so-called anti-steering measures. Under the regulation, app developers who distribute their product via Google Play should be able to inform customers of alternative, sometimes cheaper offers. Those developers should be able to direct customers to those offers even if they are on external websites outside of the Google Play Store.
-The Commission said Google failed to comply with that obligation.
-"In particular, Google prevents app developers from freely communicating and promoting offers and concluding contracts with users in distribution channels of their choice, including third-party app stores," the Commission said.
-Kent Walker, president of global affairs at Google and Alphabet, said the DMA will ruin the product experience for users.
-"This implementation of the DMA continues to break everyday products. To comply, we are having to strip away real-time Search features Europeans love — like instant pricing and direct availability for hotels, flights, and restaurants — and dismantle safety protections on Google Play," Walker said in a statement.
-"This isn't fair competition; it's product degradation driven by a small group of self-serving complainants, with European businesses and consumers taking the hit. Regulation should improve products, not make them worse."
-Google said it is reviewing the decision and evaluating whether to appeal.
-EU orders Google changes
-The regulator said it ordered Google to treat third-party services on search results in a "fair and non-discriminatory manner." It also said that Google needs to allow app developers who distribute their apps via the Google Play Store to "promote offers and conclude contracts with users not only within but also outside the Google Play app store."
-The Commission said Google proposed and began testing changes to how it presents its own services on search. The regulator said it would monitor the implementation of this move, which constitutes "substantial progress towards compliance."
-Google has also rolled out changes related to its steering terms in its app store.
-The tech giant has 60 days to comply with the Commission's decision, or it could be fined up to 5% of its worldwide turnover.
-The European Commission first proposed the Digital Markets Act in late 2020, and it officially became enforceable in 2024. Under the law, large tech platforms such as Alphabet, Apple and Meta have been designated "gatekeepers," which means they are subject to additional provisions in the law.
-Google argues these changes to search could degrade the experience for European users and potentially impact travel businesses that gain users and bookings via its search platform.
-In relation to the app store, Google argues that sending users to third-party sites also brings security risks.
-Correction: This story has been revised to reflect that the European Union's Digital Markets Act officially became enforceable in 2024. A previous version misstated the timeline of the DMA.</description></item><item><title>Thousands of idle ships trapped near the Strait of Hormuz could become floating nurseries for invasive marine species and spread them worldwide when trade resumes</title><link>https://timesofindia.indiatimes.com/science/thousands-of-idle-ships-trapped-near-the-strait-of-hormuz-could-become-floating-nurseries-for-invasive-marine-species-and-spread-them-worldwide-when-trade-resumes/articleshow/132576193.cms</link><description>【原文链接】：https://timesofindia.indiatimes.com/science/thousands-of-idle-ships-trapped-near-the-strait-of-hormuz-could-become-floating-nurseries-for-invasive-marine-species-and-spread-them-worldwide-when-trade-resumes/articleshow/132576193.cms
-
-========================================
-
-Having escalated into open hostilities on February 28, 2026, the current United States and Iran war has been going on for nearly five months. In this period, the Strait of Hormuz, the only open-ocean exit for major producers like Saudi Arabia, Iran, Iraq, Kuwait, and the UAE has been in chokehold. The strait is the world's most critical maritime energy chokepoint, facilitating the passage of roughly 600 billion worth of energy trade annually. According to estimates, about 1,500 vessels are stuck in the Persian Gulf, and several hundred more are stuck in the adjacent Gulf of Oman.
-Now according to new research, something growing on the hulls of these ships could spread worldwide when the trade resumes. The study published in Biological Invasions, was led by an international team of 24 marine scientists, led by the University of Maryland Center for Environmental Science (UMCES), and including the Woods Hole Oceanographic Institution (WHOI).
-The team cautioned that thousands of commercial vessels stranded for months in the Persian/Arabian Gulf following the closure of the Strait of Hormuz could unintentionally trigger a massive marine invasive species event. The study titled, “Closure of the Strait of Hormuz May Trigger a Bioinvasion Super-Spreader Event,” highlighted how prolonged periods at anchor allow ship hulls to accumulate dense communities of marine organisms including algae, barnacles, mussels and other invertebrates which can be transported across the globe when trade resumes.
-A 'super-spreader' event
-Ships stuck at the Strait of Hormuz
-The phenomenon is known in the maritime industry as "biofouling", the accumulation of marine organisms on submerged surfaces such as ship hulls and propellers. It begins with a thin layer of microorganisms and slime before progressing to algae, barnacles, small marine crustaceans and shell-forming organisms.
-The authors described the unprecedented lay-up of more than 1,500 ships as creating conditions for a potential global marine bioinvasion 'super-spreader' event. Carolyn Tepolt, a WHOI biologist whose research focuses on the evolution and spread of marine invasive species, contributed expertise on how globally distributed biofouling organisms can rapidly adapt to new environmental conditions.
-"Marine invasive species have profound ecological and economic impacts on coastlines across the globe," explained Tepolt, “and are extremely difficult, if not impossible, to eradicate once they become established. This disruption to global shipping has many repercussions and has also more quietly created ideal conditions to spread warm-water species to new ports."
-A looming threat
-The International Maritime Organization advises that ships idling for more than 30 days require immediate intervention to manage biofouling before sailing
-The International Maritime Organization advises that ships idling for more than 30 days require immediate intervention to manage biofouling before sailing, yet these ships have been stranded for nearly four months during the peak marine organism growth and reproduction season. According to research cited by the International Maritime Organization (IMO), even a thin layer of slime can increase greenhouse gas emissions by 20-25 per cent, while light barnacle growth can push fuel consumption and emissions up by more than 50 per cent. The IMO estimates that around 10 per cent of the shipping industry’s fuel use is spent overcoming biofouling-related drag.
-The authors also noted that modern shipping has long been recognised as the primary pathway for marine invasive species. They also warned that the scale and duration of the recent vessel lay-up is unlike anything previously documented, creating an unprecedented yet daunting global biosecurity challenge. In recent decades, the spread of invasive species through biofouling, including from the Gulf region, has caused severe damage in several areas worldwide. In one such spread, clam and worm species that spread to the Atlantic and Pacific oceans displaced local species and damaged port infrastructure.
-Biofouling also impairs ships' movement capability due to its effect on the drag the vessels experience as they sail in the water. As a result, vessels are forced to expend additional energy, leading to increased use of polluting fuels. One of the prominent examples of ecological impact is the Asian green mussel, considered a particularly aggressive invasive species. This mussel, which originates in the tropical regions of the Indian and Pacific oceans and is also common in the Gulf, has spread to the Caribbean region and the South Atlantic Ocean, causing ecological damage by displacing local mussel species.
-The team called on ship operators, port authorities, regulators and environmental managers to strengthen ship biofouling management, expand monitoring at high-risk ports, improve forecasting of vessel movements and coordinate rapid international response efforts. According to the authors, “in-water-cleaning” of the ships to remove biofouling prior to departure could be highly effective in mitigating their invasion risks.
-According to recent reports, divers are being deployed across Gulf ports to scrape hulls and propellers before ships can resume commercial operations. Fees for cleaning a single vessel could increase by as much as 60%, reaching around $8,000 per ship as operators rush to leave the Gulf.
-According to Justus Heinrich, who leads marine underwriting at Allianz, this event has entirely revolutionised the way that the business community perceives risks associated with chokepoints. “It was always realistic disaster scenarios. But now, we have seen a real disaster scenario, which means that theoretical risks have turned into practical risks."
-While the world has largely focused on the economic fallout of the conflict, researchers say one of its most enduring legacies could be an invisible ecological crisis carried across oceans on the hulls of ships.</description></item><item><title>'Extremely significant' car bomb intercepted near border by Irish police</title><link>https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599</link><description>【原文链接】：https://news.sky.com/story/extremely-significant-car-bomb-intercepted-near-border-by-irish-police-13566599
-
-========================================
-
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Mykhailo Fedorov Says He Will Accept Only the Post of Ukraine’s Defense Minister</title><link>https://united24media.com/war-in-ukraine/mykhailo-fedorov-says-he-will-accept-only-the-post-of-ukraines-defense-minister-21019</link><description>【原文链接】：https://united24media.com/war-in-ukraine/mykhailo-fedorov-says-he-will-accept-only-the-post-of-ukraines-defense-minister-21019
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Ukraine to Expand Drone Range to 4,000 Km and Up to 10,000 Next Year, Zelenskyy Says</title><link>https://united24media.com/war-in-ukraine/ukraine-to-expand-drone-range-to-4000-km-and-up-to-10000-next-year-zelenskyy-says-21056</link><description>【原文链接】：https://united24media.com/war-in-ukraine/ukraine-to-expand-drone-range-to-4000-km-and-up-to-10000-next-year-zelenskyy-says-21056
 
 ========================================
 
 - Category
 - War in Ukraine
-Mykhailo Fedorov Says He Will Accept Only the Post of Ukraine’s Defense Minister
-Mykhailo Fedorov stated on July 23 that he would accept only the position of Ukraine’s Minister of Defense, arguing that only the role has the authority needed to complete military reforms and continue ongoing initiatives, according to UNITED24 Media on July 23.
+Ukraine to Expand Drone Range to 4,000 Km and Up to 10,000 Next Year, Zelenskyy Says
+Ukraine is preparing to scale its long-range drone capacity significantly, targeting ranges of 4,000 kilometers this year and up to 10,000 kilometers next year.
+Ukrainian President Volodymyr Zelenskyy revealed the new goals during an interview with American blogger Laura Loomer on July 24.
 We bring you stories from the ground. Your support keeps our team in the field.
-Fedorov wrote that he joined the Ministry of Defense in January 2026 at the invitation of President Volodymyr Zelenskyy, bringing a specific plan to end the war. According to the statement, the team called it AIR–LAND–ECONOMY: defend the skies, hold the front line, and strike the enemy's economy.
-That plan was executed consistently over the following six months, the statement noted. Fedorov claimed Ukraine began seizing the initiative for the first time in recent years, opening what he described as "a window of opportunity to force Russia into peace through strength."
-He framed his decision around where authority actually sits over the course of the war.
-"I'm grateful to the president for all the options offered. However, today there are only three positions in the country that, alongside the troops on the battlefield, actually shape the course of the war: the President of Ukraine, the Minister of Defense, and the Commander-in-Chief of the Armed Forces of Ukraine," Fedorov wrote.
-"No other role carries the actual authority to combat procurement corruption, complete the army's transformation, plan and execute asymmetric operations against the enemy, root out a culture of lies and unaccountability within the system, or finish the initiatives our team has already started at the defense ministry," he emphasized.
-Fedorov added that he was grateful to the president for all the options offered, without specifying them.
-"For me, it was never about the title or status — it has only ever been about having a real impact on the outcome and bringing Ukraine closer to victory," Fedorov stated.
-On the same day, Ukrainian President Volodymyr Zelenskyy confirmed that he offered Fedorov several positions after his dismissal, most recently the role of Deputy Prime Minister for Military Innovation. He noted that the position would coordinate defense technology efforts among the Defense Ministry, the military leadership, the General Staff and the President.
-The remarks follow a week of public pressure over Fedorov's removal from the ministry. He announced his departure on July 15 in a farewell post on his Telegram channel.
-Thousands then gathered on July 16 in Kyiv, Kharkiv, Sumy, Lviv, and Odesa to protest a dismissal carried out without public explanation, while Volodymyr Zelenskyy treated the rallies as a legitimate expression of democracy and confirmed that Fedorov would remain on his team, with his exact role to be announced later.
-Discuss this article:</description></item><item><title>U.S. sets tariffs at 10% to 12.5% on 60 countries to replace expiring tariffs</title><link>https://www.nbcnews.com/business/economy/trump-tariffs-60-countries-forced-labor-rcna588972</link><description>【原文链接】：https://www.nbcnews.com/business/economy/trump-tariffs-60-countries-forced-labor-rcna588972
+"So, what is very important now: you have drones for 3000 plus kilometers," stated Zelenskyy.
+"And this year we will have them for 4000 kilometers, next year — from 5 to 10 thousand," he added.
+Earlier, in March 2025, Zelenskyy officially announced successful tests of a drone. The UAV achieved a distance of 3,000 kilometers for the first time.
+At that time, the president emphasized that Ukraine was actively building a complete lineup of long-range tools that "will help guarantee the security of our state."
+Previously, Zelenskyy announced that Ukraine had developed upgraded long-range drones. These drones can strike targets at distances of up to 3,000 kilometers.
+According to Zelenskyy’s address, the new capability was demonstrated during operations inside Russia, including a strike in the Tyumen region.
+These long-range operations significantly impacted Russian military logistics and energy facilities.
+Discuss this article:</description></item><item><title>Sweden moves to ban ‘forever chemicals’ in consumer products from 2028 as EU-wide ban remains in limbo</title><link>https://euobserver.com/230085/sweden-moves-to-ban-forever-chemicals-in-consumer-products-from-2028-as-eu-wide-ban-remains-in-limbo/</link><description>【原文链接】：https://euobserver.com/230085/sweden-moves-to-ban-forever-chemicals-in-consumer-products-from-2028-as-eu-wide-ban-remains-in-limbo/
+
+========================================
+
+Sweden said that it plans to ban so-called “forever chemicals”, technically known as PFAS, in consumer products such as clothing and kitchenware from 2028.
+“Sweden has no intention of standing by while ‘forever chemicals’ continue to spread in our homes, in nature and in our bodies,” environment and climate minister Romina Pourmokhtari said in a statement, quoted by Le Monde.
+The Swedish government aims to reduce the spread of PFAS to protect the environment and human health, according to its official website.
+But the restriction only comes after decades of warnings from campaigners, health organisations, and investors, given the growing problem across Europe and the knock-on costs for society.
+The announcement comes as the European Chemicals Agency (ECHA) advances work on EU-wide restrictions. At the end of March, the agency published a scientific opinion recommending a broad restriction on PFAS across the EU.
+This follows the work of five countries — Germany, the Netherlands, Sweden, Denmark and non-EU Norway — that came together in 2023 to submit to ECHA a joint proposal for a general PFAS ban.
+A final opinion by ECHA is expected at the end of the year, when the political fight will move over to the European Commission and all EU member states.
+When ECHA opened its public consultation on the five-country proposal, it received over 5,600 submissions, becoming one of the highest volumes the agency has ever handled. A significant part came directly from corporations, law firms, trade groups, and foreign industry coalitions.
+Chemical giants (like Chemours, 3M, and Solvay) and major industry bodies (such as Cefic and PlasticsEurope) drastically ramped up their EU lobbying budgets following the 2023 submission.</description></item><item><title>Russian ballistic missile strikes Kyiv arms exhibition, killing at least 10, injuring 100</title><link>https://kyivindependent.com/explosions-in-kyiv-as-russia-launches-daytime-missile-attack/</link><description>【原文链接】：https://kyivindependent.com/explosions-in-kyiv-as-russia-launches-daytime-missile-attack/
+
+========================================
+
+Russian ballistic missile strikes Kyiv arms exhibition, killing at least 10, injuring 100
+Editor's note: This is a developing story.
+At least ten people have been killed, and more than 100 others injured after a Russian ballistic missile strike on Kyiv hit an arms exhibition taking place in the capital on July 24, Prosecutor General Ruslan Kravchenko said on Telegram.
+"These were brutal attacks on civilians, and the Russians must be held accountable for them. Russia has long abandoned any regard for international norms and for human values," President Volodymyr Zelensky wrote on X in response to the strike.
+Presidential advisor Serhii "Flash" Beskrestnov told the Kyiv Independent that the event was taking place at a training ground near Kyiv along the Zhytomyr Highway, adding that there were "injured and killed." Yet Yuriy Ignat, spokesperson for the Ukrainian Air Force, later said the strike occurred at a private sports complex.
+Kravchenko said that his office had opened two criminal investigations, including into a possible violation of the laws and customs of war, as well as possible negligence in organizing and holding the event.
+"No details about the event or its location" were publicly available before the attack, with the invitation shared only through closed industry channels and appearing online only afterward, a spokesperson for the Ukrainian Council of Defense Industry told the Kyiv Independent. While the council was not the organizer, the spokesperson said that "neither the invitation nor the registration link disclosed the venue."
+The council said in a post on social media that "an enemy missile strike occurred in the Kyiv region at a location where representatives of the Ukrainian defense industry were present."
+"We express our sincere condolences to the families and loved ones of the deceased and wish a speedy recovery to the injured," it added.
+Kremlin-controlled news agency TASS cited the Russian Defense Ministry as saying that Ukrainian drone developers, representatives of Ukraine's Unmanned Systems Command, and members of the country's special services were at the facility in Kyiv that was struck.
+On Ukrainian social media, questions were already being raised about the event's security. Images of flyers advertising the event circulated online, along with invitations containing registration links that attendees could use to obtain the location.
+"I don't even know how to comment on this… What else needs to happen for there to finally be some awareness of the possible consequences of such actions?" one popular Telegram monitoring channel posted.
+Air-raid sirens rang out around 11:20 a.m., with Ukraine's Air Force reporting Russian missiles heading to the Ukrainian capital.
+A few minutes later, Kyiv Mayor Vitalii Klitschko reported explosions in the city.
+The attack comes as Russia scales up mass missile attacks on the Ukrainian capital.
+On July 19, 25 ballistic missiles were launched in a single night on Kyiv, in what President Volodymyr Zelensky described as one of the largest mass uses of the weapon during the full-scale war.
+On top of its regular menu of Iskander ballistic missiles and various cruise missiles — including the hypersonic Zircon model — Russia has reportedly also begun using missiles from its S-400 air defense system, repurposed for attacking ground targets.</description></item><item><title>Romania shoots down suspected Shahed drone in its airspace for first time</title><link>https://www.independent.co.uk/news/world/europe/romania-drone-incursion-shot-down-russia-shahed-b3020984.html</link><description>【原文链接】：https://www.independent.co.uk/news/world/europe/romania-drone-incursion-shot-down-russia-shahed-b3020984.html
+
+========================================
+
+Romania shoots down suspected Shahed drone in its airspace for first time
+Two F-16s and two Eurofighter Typhoons were scrambled to intercept the drone as it strayed into Romanian territory
+Romania shot down a foreign drone in its airspace on Friday in the first interception of its kind, amid growing concern over UAVs straying into Nato territory.
+An F-16 fighter jet shot down the drone near the town of Padina, in the east, at around 11am after it entered the country’s airspace, officials said, adding that an investigation was underway.
+The Romanian army said the drone’s origin and purpose is yet to be identified, but chief of staff General Gheorghita Vlad said it appeared to be a Shahed - the Iran-designed attack drones used by Russia against Ukraine.
+"Visually, the pilots reported the drone looked to be a Shahed type," he said, adding it was too soon to draw conclusions.
+Earlier in the day an army source told Reuters: “There is an ongoing investigation to determine the origin of the drone. But in this part of the world it is Russia that is the attacker.”
+The interception marked the first time that the Nato member state has shot down a drone within its airspace following dozens of such incursions.
+Western officials have accused Russia for months of testing Nato’s reactions with limited incursions across the border. Russia has denied deliberately provoking Nato allies. Ukrainian drones have also been identified crossing into neighbouring countries.
+Earlier this month, reports emerged claiming the US has already warned Poland that Russia could be planning an armed “provocation” to test Nato’s resolve.
+The latest incursion in Romania intensifies concerns over the security of Nato's eastern flank, as the conflict between Russia and Ukraine continues.
+The Romanian defence ministry said that the drone was picked up by radars at around 9.30am local time, around 12 miles east of Sulina on the Black Sea coast.
+President Nicusor Dan said on social media that a Romanian pilot shot down the drone, adding: “The area was uninhabited, so the pilot was able to shoot without any risk.”
+Fragments of the drone fell on a wheat field but caused no damage or injuries, the Buzau county prefect told reporters.
+Romania, which shares a 650-km (400-mile) land border with Ukraine, has reported more than a dozen breaches of its airspace by Russian drones since Moscow began attacking Ukrainian ports across the Danube River following its full-scale invasion in 2022.
+The ministry last month reported that Russian drones have breached Romania’s national airspace at least 15 times this year.
+General Vlad said Russian attacks against Ukraine's Odessa region had increased ahead of the harvest season, further pressuring key energy and trade routes in the Black Sea.
+In late May, a drone crashed into an apartment building in the town of Galati, near the Ukrainian border, injuring two people, the first time a strike had hit a densely populated area in a Nato country and caused injuries during the Ukraine war.
+Nato accused Moscow of “reckless behaviour” following the incident and reiterated its commitment to defend “every inch of Allied territory”.
+Nato countries have also reported increasing numbers of Ukrainian drones flying into their air space, leading to travel disruptions, closed airports and the scrambling of fighter jets.
+Latvia’s government collapsed in May over its response to Ukrainian drones, meant for Russia, straying into Latvian territory.
+Join our commenting forum
+Join thought-provoking conversations, follow other Independent readers and see their replies
+Comments
+Bookmark popover
+Removed from bookmarks</description></item><item><title>Canada to consider retaliating against latest Trump tariffs, Carney says</title><link>https://www.reuters.com/business/canada-will-do-whatever-it-takes-trade-war-with-us-says-carney-2026-07-23/</link><description>【原文链接】：https://www.reuters.com/business/canada-will-do-whatever-it-takes-trade-war-with-us-says-carney-2026-07-23/
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>U.S. sets tariffs at 10% to 12.5% on 60 countries to replace expiring tariffs</title><link>https://www.nbcnews.com/business/economy/trump-tariffs-60-countries-forced-labor-rcna588972</link><description>【原文链接】：https://www.nbcnews.com/business/economy/trump-tariffs-60-countries-forced-labor-rcna588972
 
 ========================================
 
@@ -323,62 +235,17 @@ Some, however, noted they would make little difference to current levies.
 U.S. Trade Representative Jamieson Greer said in a news release, “The United States has had a forced labor import ban for nearly a century, and rigorously enforces it; it’s well past time for our trading partners to do the same.”
 Greer’s probe into the 60 trading partners has been ongoing since mid-March, as the administration considered which tariff statute to turn to next.
 The new duties include a wide swath of exemptions, including on fertilizers and some types of fuel, both of which are surging in price because of the war in Iran.
-Also exempted from the levies are some foods, autos, metals and pharmaceuticals. On Tuesday, Trump separately announced on social media that “all Generic Drugs being brought into the United States will continue to have a TARIFF of ZERO PERCENT for a two year period of time.”</description></item><item><title>Canada to consider retaliating against latest Trump tariffs, Carney says</title><link>https://www.reuters.com/business/canada-will-do-whatever-it-takes-trade-war-with-us-says-carney-2026-07-23/</link><description>【原文链接】：https://www.reuters.com/business/canada-will-do-whatever-it-takes-trade-war-with-us-says-carney-2026-07-23/
+Also exempted from the levies are some foods, autos, metals and pharmaceuticals. On Tuesday, Trump separately announced on social media that “all Generic Drugs being brought into the United States will continue to have a TARIFF of ZERO PERCENT for a two year period of time.”</description></item><item><title>One Israeli killed, two others seriously wounded, after Palestinian opened fire near West Bank town</title><link>https://www.jpost.com/israel-news/article-903540</link><description>【原文链接】：https://www.jpost.com/israel-news/article-903540
 
 ========================================
 
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Iran Rejects U.S. Cease-Fire Deal Presented by Iraqi Leader</title><link>https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html</link><description>【原文链接】：https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html
-
-========================================
-
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Japanese militant Kozo Okamoto who took part in 1972 Tel Aviv attack dies in Lebanon</title><link>https://www.thenationalnews.com/news/mena/2026/07/24/japanese-militant-kozo-okamoto-who-took-part-in-1972-tel-aviv-attack-dies-in-lebanon/</link><description>【原文链接】：https://www.thenationalnews.com/news/mena/2026/07/24/japanese-militant-kozo-okamoto-who-took-part-in-1972-tel-aviv-attack-dies-in-lebanon/
-
-========================================
-
-Kozo Okamoto, a Japanese militant who helped carry out a deadly attack on an Israeli airport on behalf of the Popular Front for the Liberation of Palestine (PFLP), has died in Beirut, the group said.
-The PFLP referred to him as Ahmad Al Yabani, or Ahmad the Japanese, calling him a “comrade” who made “enormous sacrifices that spanned long decades in the struggle for Palestine” after his death, aged 78, in the Lebanese capital on Thursday.
-Okamoto participated in a deadly shooting attack on the airport in Tel Aviv in 1972 as a member of the communist Japanese Red Army (JRA) guerrilla group founded the previous year. The attack at Lod Airport, now known as Ben Gurion Airport, killed 26 people.
-The JRA largely operated out of Lebanon and was responsible for several high-profile attacks including the hijacking of planes belonging to Japan Airlines and a takeover of the US consulate in Malaysia.
-Okamoto served 13 years in an Israeli prison for his role in the deadly airport attack, in which 76 people were also injured. He was freed in 1985 in a prisoner exchange between Israel and Palestinian guerrillas. After moving to Syria and Libya, he was granted asylum in Lebanon for “participating in resistance operations against Israel and being tortured in Israeli prisons”, and converted to Islam. He remained in close contact with members of the PFLP.
-Before his death, he was wanted in Japan, where authorities had contacted Interpol to have him arrested. During a trial in Lebanon on charges of forgery related to his illegal entry, Okamoto called himself an “Arab resistance fighter”. He was lauded by the PFLP for his support of the Palestinian cause.
-Established in 1967, the PFLP is part of the Palestine Liberation Organisation. It is an offshoot of the Arab Nationalist Movement and was founded after the 1967 war by George Habash, a Palestinian Greek-Orthodox Christian.</description></item><item><title>Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say, in ​a move that suggests Tehran is seeking to strengthen the ability of its Houthi allies to threaten Red Sea shipping</title><link>https://www.reuters.com/world/middle-east/iran-flew-irgc-commanders-missile-gear-yemens-houthis-sources-say-2026-07-23/</link><description>【原文链接】：https://www.reuters.com/world/middle-east/iran-flew-irgc-commanders-missile-gear-yemens-houthis-sources-say-2026-07-23/
-
-========================================
-
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Oil surges to $100 per barrel after Red Sea attacks</title><link>https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851</link><description>【原文链接】：https://www.nbcnews.com/business/markets/oil-prices-rise-red-sea-attacks-houthis-saudi-trump-iran-war-rcna588851
-
-========================================
-
-Oil prices rose Thursday to their highest levels in nearly two months after the latest Iran war escalation threatened severe new disruptions to global energy supplies.
-Brent crude oil, one of two key global benchmarks, closed higher by 7%, at $100.69 per barrel. Earlier in the trading day, it rose as high as $102 per barrel. That is its highest level in eight weeks, since the end of May.
-U.S. crude oil also jumped for a second straight day, closing higher by 6.2%, at $92.19 per barrel — its highest close since June 4.
-The prices surged after Tehran-backed Houthi rebels claimed attacks on two Saudi oil tankers in the Red Sea following their announcement of a naval blockade on the kingdom.
-It appeared to be the first time since the Iran war began that ship attacks had spread beyond the vicinity of the Strait of Hormuz, opening up a new front in the volatile conflict.
-The Houthi threat is so unsettling to oil markets because millions of barrels per day pass through the Bab el-Mandeb strait to reach global markets.
-About 12% to 15% of global maritime trade worth more than $1 trillion transits the waterway every year.
-It has also served as an alternative to the Strait of Hormuz, where traffic remains largely at a standstill, with ship crossings falling to single digits Tuesday.
-Since the start of the month, oil prices have now risen about 35%. Those prices are now higher by more than 60% since the start of the year.
-Along with oil prices, gas prices have risen, too.
-The national average price Thursday rose to $4.09 per gallon, up from $4.06 Wednesday, according to AAA data tracked by NBC News.
-That has erased much of the progress toward lower prices after the U.S. and Iran signed a memorandum of understanding in mid-June.
-That deal has now collapsed, with President Donald Trump threatening Wednesday to blow up an Iranian bridge or power plant for every vessel Tehran attacks.
-Then, hours later, came the Houthi claim to have hit two tankers in the Red Sea.
-The United Kingdom’s Maritime Trade Office reported a tanker “struck by an unknown projectile” north of the critical Bab el-Mandeb strait in the area. And the state-run Saudi Press Agency reported the Encelia was set ablaze by an attack while it was sailing overnight in the Red Sea, citing an unidentified source from the General Authority of Transport. It did not mention the Layla.
-“Inflation has remained top of the agenda for markets this morning,” said Deutsche Bank’s global head of macro research, Jim Reid, citing the jump higher in Brent oil. “Indeed, the strikes between the US and Iran show no sign of easing, and the Houthis said they targeted two oil tankers in the Red Sea yesterday, raising fears that the conflict is widening.”
-The worry about inflation as a result of higher oil and gas prices has driven bond yields higher this week. Early Thursday, the U.S. 10-year Treasury bond was trading at 4.7%, its highest level since January 2025.
-The 10-year bond has a heavy hand in steering consumer borrowing rates. On Wednesday, the average 30-year U.S. mortgage rate rose to 6.85%, its highest level since July 2025.
-Inflation worries and higher oil prices also hit stocks. The S&amp;P 500 fell more than 1.3%, while the Nasdaq slid 2.4%. However, most of the selling came in tech stocks, after Alphabet and Tesla earnings failed to impress investors even though the companies posted generally positive results.</description></item><item><title>Iran strikes on CIA facilities prompt questions about possible Russian role</title><link>https://www.reuters.com/world/middle-east/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-2026-07-22/</link><description>【原文链接】：https://www.reuters.com/world/middle-east/iran-strikes-cia-facilities-prompt-questions-about-possible-russian-role-2026-07-22/
-
-========================================
-
-【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>One Israeli killed, two others seriously wounded, after Palestinian opened fire near West Bank town</title><link>https://www.jpost.com/israel-news/article-903540</link><description>【原文链接】：https://www.jpost.com/israel-news/article-903540
-
-========================================
-
-At least one Israeli was killed, two others were seriously wounded, and at least two others were lightly wounded in a shooting near Gilad Farm, a settlement located southwest of Nablus in the northern West Bank, on Friday morning.
-A number of Israelis were hiking in the area when they were attacked by Palestinians who encountered them, the IDF confirmed.
-The murdered Israeli was identified as 32-year-old Benayahu Melet, a member of Gilad Farm's emergency response squad who was killed after attempting to aid hikers under assault by Palestinians.
-He leaves behind a wife and two daughters, aged 13 and 12, respectively.
+Two Israelis, including an IDF officer, were killed and several others were lightly-to-seriously wounded in a terror shooting near Gilad Farm, a settlement located southwest of Nablus in the northern West Bank, on Friday morning.
+According to the IDF, a group of Israeli civilians had illegally crossed into Palestinian Authority-controlled territory while hiking in the area. The military said Palestinians confronted the group and began throwing rocks before one of them opened fire.
+The IDF said troops and other security forces rushed to the scene, where they exchanged fire with the suspected attackers.
+The Palestinian Authority's Health Ministry said at least four Palestinians were killed and four others were wounded, including three in critical condition. A different account was provided by Essam Saifi, a local Fatah leader from the area, who told Reuters that about 25 to 30 Israeli settlers initially entered the area, attacked residents, and attempted to break into two homes. According to Saifi, local residents came out to confront them, at which point the settlers opened fire.
+Saifi said the Israelis returned about half an hour later and attacked the western part of the town, wounding a minor. The ensuing chaos was followed by the arrival of Israeli forces, who, together with the settlers, opened fire, he told Reuters.
+The murdered Israeli was identified as 32-year-old Benayahu Melet, a member of Gilad Farm's emergency response squad who was killed after attempting to aid hikers under assault by Palestinians. He leaves behind a wife and two daughters, aged 13 and 12, respectively.
+The other was identified as 27-year-old Major Yuval Ezra, an Artillery Battery Commander.
 The IDF conducted a manhunt for the terrorist, locating and killing him after the shooting incident.
 The head of Gilad Farm's emergency response squad responded to the incident, along with other squad members. At approximately 8:20 a.m., reports were received of a gunshot wound after Palestinians stole the weapon of the emergency response squad chief and fired at the Israelis, Walla learned.
 The IDF seized and returned the stolen weapon after killing the terrorist.
@@ -442,8 +309,103 @@ Otzma Yehudit MK Limor Son Har-Melech blamed the IDF for allowing the incident t
 "A group of Jewish hikers, who set out every Friday to hike in Judea and Samaria, has become a target of terror today," Yisrael Beytenu leader and former defense minister Avigdor Liberman said.
 "This is a loss of control. A normal country does not accept a reality in which its citizens go out to hike in their own land, and terrorists open fire on them," he added.
 "Against terror, there is no room for hesitation, stammering, or tolerance. Terror understands only strength, determination, and an iron fist!" he stated, sending condolences to the family of the murdered Israeli and wishing a speedy recovery to the wounded.
-Several Palestinians killed, wounded at scene, Ramallah's Health Ministry claims
-At least four Palestinians were killed by the IDF and four others wounded at the scene, including three in critical condition, the Palestinian Health Ministry claimed. The IDF has not commented on this at the time of writing.
-Essam Saifi, a local leader in the Palestinian Fatah party from the area, told Reuters in a phone call that about 25 to 30 Jewish settlers initially attacked the area and tried to break into two houses there. The residents came out to confront them, and the settlers opened fire, Saifi said.
-Half an hour later, Saifi said, the Israelis returned and attacked the western part of the town, striking a minor with a weapon. This caused chaos, and then the Israeli military arrived and started shooting, along with the settlers, Saifi told Reuters.
-Amir Bohbot, Efrat Forsher, and Reuters contributed to this report.</description></item></channel></rss>
+Amir Bohbot, Efrat Forsher, and Reuters contributed to this report.</description></item><item><title>Iran Rejects U.S. Cease-Fire Deal Presented by Iraqi Leader</title><link>https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html</link><description>【原文链接】：https://www.nytimes.com/2026/07/23/world/middleeast/iran-iraq-cease-fire-proposal.html
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Iran flew IRGC commanders, missile gear to Yemen's Houthis, sources say, in ​a move that suggests Tehran is seeking to strengthen the ability of its Houthi allies to threaten Red Sea shipping</title><link>https://www.reuters.com/world/middle-east/iran-flew-irgc-commanders-missile-gear-yemens-houthis-sources-say-2026-07-23/</link><description>【原文链接】：https://www.reuters.com/world/middle-east/iran-flew-irgc-commanders-missile-gear-yemens-houthis-sources-say-2026-07-23/
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Japan Confirms Heavy Rare Earths in Deep-Sea Mud Off Minami-Torishima, Advancing Push to Reduce China Reliance</title><link>https://finance.biggo.com/news/bf375441-4f57-4a7a-b281-e450b66d7bf0</link><description>【原文链接】：https://finance.biggo.com/news/bf375441-4f57-4a7a-b281-e450b66d7bf0
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Suicide bombing in Pakistan kills 15, including 12 soldiers: Army</title><link>https://www.thehindu.com/news/international/suicide-bombing-in-pakistan-kills-several-people-including-soldiers-updates/article71262870.ece</link><description>【原文链接】：https://www.thehindu.com/news/international/suicide-bombing-in-pakistan-kills-several-people-including-soldiers-updates/article71262870.ece
+
+========================================
+
+Militants rammed an explosives-laden vehicle into a security check post in northwestern Pakistan overnight, killing 15 people, including soldiers, police and government personnel, the military said on Friday (July 24, 2026).
+“Fifteen brave sons of soil, including twelve military, two policemen and an ex-government official from the forest department, rendered the ultimate sacrifice and embraced Shahadat (martyrdom),” the military’s media wing said in a statement on the latest attack in the border province of Khyber Pakhtunkhwa (KP).
+Security forces killed 12 militants during the attack, which took place in the Tank district, according to the military.
+“The attackers rammed an explosive-laden vehicle into the perimeter wall,” the statement said. “Due to the blast impact, infrastructure at the checkpost was seriously damaged.”
+Local Taliban militants, also known as Tehreek-e-Taliban Pakistan, claimed responsibility for the attack, saying four suicide bombers took part in it, according to a statement.
+Pakistan has previously blamed the increase in attacks in KP and the southern border province of Balochistan on militancy emanating from Afghanistan, where the Taliban government denies Afghan involvement.
+The accusations have sparked a bitter rift and armed conflict between the neighbouring countries and Pakistan has carried out deadly airstrikes it says target militants on Afghan soil.
+The Taliban government and the United Nations said dozens of civilians were killed in the latest Pakistani strikes on eastern Afghanistan in June.
+(With inputs from AFP, Reuters)
+Published - July 24, 2026 07:51 pm IST
+You are logged in
+Loading...
+You don’t have any Active Subscription.
+Subscribe nowSubscribed with another email? Logout and Login with that one.
+Your active subscription(s)
+Account subscription benefits alongside Premium Stories, Editorials, Opinions and more. Unlock these with Subscription
+Products you've access to
+Additional Subscription Benefits
+Account Settings
+Need help with your subscription?</description></item><item><title>Russian flag sparks stadium clashes</title><link>https://tvpworld.com/94502693/russian-flag-displayed-at-dynamo-kyiv-paok-match-in-lublin</link><description>【原文链接】：https://tvpworld.com/94502693/russian-flag-displayed-at-dynamo-kyiv-paok-match-in-lublin
+
+========================================
+
+A Russian flag displayed during Dynamo Kyiv’s Europa League qualifier in Poland sparked angry scenes in the stands, prompting the stadium security to use tear gas on the crowds.</description></item><item><title>/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1611, Part 1 (Thread #1758)</title><link>https://www.reddit.com/live/18hnzysb1elcs</link><description>【原文链接】：https://www.reddit.com/live/18hnzysb1elcs
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Trump says that he does not believe China ​or Russia are "participating" in the ongoing Iran conflict, ‌but warned that if they did get involved "it would be very bad for them."</title><link>https://www.reuters.com/world/china/trump-warns-china-russia-against-involvement-iran-war-2026-07-24/</link><description>【原文链接】：https://www.reuters.com/world/china/trump-warns-china-russia-against-involvement-iran-war-2026-07-24/
+
+========================================
+
+【正文抓取失败。可能由于外媒网站有反爬虫验证，或该新闻为纯视频/图片形式。】</description></item><item><title>Spain declares state of emergency and France seeks EU help as wildfires rage</title><link>https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage</link><description>【原文链接】：https://www.france24.com/en/europe/20260724-spain-declares-state-of-emergency-and-france-seeks-eu-help-as-wildfires-rage
+
+========================================
+
+Spain declares national emergency as two wildfires merge near Madrid, thousands evacuated
+Spain's government declared a national emergency in the Madrid region as two major wildfires merged west of the Spanish capital on Friday, forcing at least 19,000 people to evacuate or stay confined, with strong winds hampering efforts to contain the worst wildfires in the area's history.
+To display this content from YouTube, you must enable advertisement tracking and audience measurement.
+One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.
+Two major wildfires merged west of Madrid on Friday, where some residents could smell smoke drifting in from blazes burning out of control near the Spanish capital.
+Strong winds were expected to hamper efforts to contain the wildfires, which authorities said were the worst in the region's history and had forced the evacuation and confinement of 19,000 people so far.
+"The smoke was incredibly thick. You couldn't breathe," Jose Cobos, who fled his home with his wife and three dogs, told private broadcaster Antena 3.
+Only emergency vehicles were allowed on roads near the blaze, while police set up checkpoints to prevent unauthorised access, according to an AFP reporter at the scene.
+Two of the three wind-fuelled wildfires burning west of Madrid had merged into a single blaze, regional emergency services wrote on X.
+To display this content from YouTube, you must enable advertisement tracking and audience measurement.
+One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.
+Officials had earlier said the main priority for firefighters was to prevent the fires' "convergence".
+From the Temple of Debod park, on the western edge of central Madrid overlooking the city's outskirts, a thick plume of grey smoke could be seen rising above the horizon as wildfires burnt about 60 kilometres (40 miles) away.
+Dora Fernandez, a 57-year-old nurse walking her dog in the park, said she was not worried despite the scale of the blaze.
+"It's far from here," she said, adding firefighters "know how to stop it".
+Interior Minister Fernando Grande-Marlaska told reporters strong winds, low humidity, and high temperatures were complicating the fight against the flames.
+Carlos Novillo, the Madrid regional government's emergency management chief, said weather conditions were "expected to improve" overnight, with cooler temperatures and higher humidity forecast for Saturday.
+Spain's government declared a national emergency in the Madrid region and neighbouring Avila province late Thursday, allowing additional resources to be deployed more quickly and placing the Military Emergency Unit (UME) in charge of coordinating the response.
+To display this content from YouTube, you must enable advertisement tracking and audience measurement.
+One of your browser extensions seems to be blocking the video player from loading. To watch this content, you may need to disable it on this site.
+'Catastrophic'
+At least 19,000 people in the Madrid region have been evacuated or ordered to remain indoors due to wildfires that have become the worst in the region's history, regional president Isabel Diaz Ayuso said.
+"The situation is completely unusual and catastrophic," she told reporters, adding that the priority was "to save lives".
+More than 430 elderly people and people with disabilities from five care homes were among the evacuated, the regional government of Madrid said in a statement.
+Television images showed Guardia Civil police officers wearing face masks helping elderly residents in wheelchairs board buses as care homes were evacuated.
+The largest evacuation operation took place in San Martin de Valdeiglesias, with most of the 178 residents at the private Lopez Rumayor care home evacuated to the municipal sports hall.
+Spain has seen a series of blazes in recent days as a heatwave and dry conditions have heightened the risk of fast-moving fires, particularly in scrubland areas where dry vegetation has fuelled the flames.
+The country's largest active wildfire is burning in the province of Guadalajara, around 100 kilometres north of Madrid, where it has scorched about 32,000 hectares over the past week.
+"We are living through a dramatic situation, not only in various Spanish provinces but also in regions of neighbouring countries," Prime Minister Pedro Sanchez wrote on X, saying the government "has deployed all available resources".
+Spain recorded its worst wildfire season in recent history in 2025, when more than 393,000 hectares were destroyed by fire, according to EFFIS.
+(FRANCE 24 with AFP)</description></item><item><title>Russia to Fund IVF for Widows of Dead Soldiers as Battlefield Casualties and Demographic Crisis Mount</title><link>https://united24media.com/world/russia-to-fund-ivf-for-widows-of-dead-soldiers-as-battlefield-casualties-and-demographic-crisis-mount-21024</link><description>【原文链接】：https://united24media.com/world/russia-to-fund-ivf-for-widows-of-dead-soldiers-as-battlefield-casualties-and-demographic-crisis-mount-21024
+
+========================================
+
+- Category
+- World
+Russia to Fund IVF for Widows of Dead Soldiers as Battlefield Casualties and Demographic Crisis Mount
+Russian women who lost their official husbands in Russia’s full-scale invasion of Ukraine will be eligible to undergo artificial insemination using public funds.
+The relevant bill was passed by the Russian State Duma . Under the document, state-funded assisted reproductive technology procedures—including in vitro fertilization (IVF) and artificial insemination, excluding surrogate motherhood—will be made available to women whose spouses died during active combat or as a result of injuries sustained during military service, as reported by The Moscow Times on July 23.
+We bring you stories from the ground. Your support keeps our team in the field.
+The initiative reflects the Kremlin’s growing desperation to offset escalating battlefield losses in Ukraine while grappling with a severe domestic demographic crisis.
+Faced with mounting casualties, Russian authorities are increasingly resorting to state-funded incentives and aggressive policy pushes aimed at boosting birth rates to replenish the country’s shrinking population.
+Women will be allowed to claim this state benefit for five years following the date of their spouse’s death, provided they do not remarry. Another mandatory condition for obtaining access to the treatment is a notarized consent form for the storage and use of biomaterial, signed by the deceased soldier during his lifetime.
+Services will be delivered under the program of state guarantees for free medical assistance, while the detailed implementation framework will be outlined by the Ministry of Health of the Russian Federation.
+Russian authorities previously allowed surviving spouses of soldiers killed in Russia’s full-scale invasion of Ukraine to gain tuition-free admission to Russian universities without taking entrance examinations.
+Similar to the IVF benefits, this privilege is contingent upon remaining unmarried following the death of a spouse. The exemption grants university entry via a dedicated quota reserved for widows and widowers of combat participants, including military personnel, security forces, and other official categories, alongside complimentary access to preparatory departments at federal public universities.
+Russian authorities deliberately reduced access to higher education in the humanities and social sciences while expanding university benefits for those connected to the war effort against Ukraine, according to a report by Ukraine’s Center for Countering Disinformation (CCD).
+The Kremlin eliminated approximately 47,000 tuition-based university spots in non-essential fields such as law, economics, psychology, and management, while tuition fees across Russian universities increased by 10% to 30%.
+Discuss this article:</description></item></channel></rss>
